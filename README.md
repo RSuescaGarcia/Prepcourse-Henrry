@@ -1,2 +1,1 @@
-# Prepcourse-Henrry
-Pruebas modulo 2
+este es un ejemplo de como relizar commit y hacer una copia local.
